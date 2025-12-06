@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\juang\\Desktop\\aprendiendo-entity\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\juang\\desktop\\aprendiendo-entity\\webapplication1\\webapplication1\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\juang\\desktop\\aprendiendo-entity\\webapplication1\\webapplication1\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\juang\\desktop\\aprendiendo-entity\\webapplication1\\webapplication1\\migrations\\20251206045856_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251206045856_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\juang\\desktop\\aprendiendo-entity\\webapplication1\\webapplication1\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64F1A238-8EF7-4C78-B917-CE700B5F69D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\juang\\desktop\\aprendiendo-entity\\webapplication1\\webapplication1\\entidades\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-06T06:30:55.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T06:30:55.758Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-06T06:30:52.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T06:30:52.355Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T06:30:46.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T06:30:46.614Z"
             },
             {
               "$type": "Document",
@@ -105,31 +102,30 @@
               "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-06T06:21:30.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T06:21:30.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MascotasController.cs",
               "DocumentMoniker": "C:\\Users\\juang\\Desktop\\aprendiendo-entity\\WebApplication1\\WebApplication1\\Controllers\\MascotasController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MascotasController.cs",
               "ToolTip": "C:\\Users\\juang\\Desktop\\aprendiendo-entity\\WebApplication1\\WebApplication1\\Controllers\\MascotasController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\MascotasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T06:15:13.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "20251206045856_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\juang\\Desktop\\aprendiendo-entity\\WebApplication1\\WebApplication1\\Migrations\\20251206045856_Inicial.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251206045856_Inicial.cs",
               "ToolTip": "C:\\Users\\juang\\Desktop\\aprendiendo-entity\\WebApplication1\\WebApplication1\\Migrations\\20251206045856_Inicial.cs",
               "RelativeToolTip": "WebApplication1\\Migrations\\20251206045856_Inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T06:14:58.617Z",
               "EditorCaption": ""
@@ -156,8 +152,7 @@
               "RelativeToolTip": "WebApplication1\\Entidades\\Consultas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T06:14:25.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T06:14:25.644Z"
             },
             {
               "$type": "Document",
@@ -173,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\juang\\Desktop\\aprendiendo-entity\\WebApplication1\\WebApplication1\\Conexion.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Conexion.cs",

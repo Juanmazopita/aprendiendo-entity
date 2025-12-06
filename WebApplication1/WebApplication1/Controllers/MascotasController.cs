@@ -4,7 +4,7 @@ using WebApplication1.Entidades;
 namespace WebApplication1.Controllers
 {
     [ApiController]
-    [Route("Api/Generos")]
+    [Route("Api/Mascotas")]
     public class MascotasController : ControllerBase
     {
         private readonly Conexion context;
