@@ -1,0 +1,2 @@
+# aprendiendo-entity
+simplemente uno donde ando aprendiendo a usar entityframeworkcore dfjkdlsfhjdfjkbsdfuisdbfjsdfhbdjfkanfbjksd
