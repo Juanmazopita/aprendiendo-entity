@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.MascotasController",
+    "Method": "Post",
+    "RelativePath": "Api/Generos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Mascota",
+        "Type": "WebApplication1.Entidades.Mascotas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
